@@ -1,7 +1,7 @@
 export const myProjects = [
   {
     id: 1,
-  title: "AI Resume Builder",
+  title: "AI Resume Analyzer",
     description:
   "An AI-powered resume analyzer that evaluates resumes, highlights key skills, and provides improvement suggestions for job seekers and recruiters.",
 subDescription: [

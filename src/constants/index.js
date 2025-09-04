@@ -161,7 +161,7 @@ export const mySocials = [
   {
     name: "Github",
     href: "https://github.com/sakiluddin-1",
-    icon: "/assets/logos/git.svg",
+    icon: "/assets/logos/github-mark-white.png",
   },
   {
     name: "Instagram",

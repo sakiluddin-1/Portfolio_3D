@@ -20,7 +20,7 @@ function Navigation() {
       </li>
       <li className="nav-li">
         <a className="nav-link" href="#experiences">
-          Achievements
+          Experience
         </a>
       </li>
       <li className="nav-li">

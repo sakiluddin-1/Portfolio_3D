@@ -150,6 +150,90 @@ subDescription: [
       },
     ],
   },
+  {
+    id: 5,
+    title: "Token Airdropper",
+   description:
+  "A secure and efficient token airdropper UI that enables users to distribute tokens to multiple wallets seamlessly.",
+subDescription: [
+  "Built a decentralized Token Airdropper dApp using Next.js, enabling users to distribute ERC-20 tokens efficiently across multiple wallet addresses.",
+  "Integrated wallet connectivity using Wagmi and RainbowKit, supporting seamless user authentication and transaction signing.",
+  "Implemented smart contract interaction logic for secure and optimized batch token transfers, reducing gas inefficiencies.",
+  " Developed and executed unit tests using Vitest to ensure reliability of frontend logic and contract interactions.",
+    ],
+    href: "https://github.com/sakiluddin-1/Token-Airdropper",
+    logo: "",
+    image: "/assets/projects/token-airdropper_ss.png",
+    tags: [
+      {
+        id: 1,
+        name: "Next.js",
+        path: "/assets/logos/cplusplus.svg",
+      },
+      {
+        id: 2,
+        name: "TypeScript",
+        path: "/assets/logos/csharp.svg",
+      },
+      {
+        id: 3,
+        name: "Solidity",
+        path: "/assets/logos/git.svg",
+      },
+      {
+        id: 4,
+        name: "Wagmi",
+        path: "/assets/logos/microsoft.svg",
+      },
+      {
+        id: 5,
+        name: "Rainbowkit",
+        path: "/assets/logos/microsoft.svg",
+      },
+    ],
+  },
+  {
+    id: 6,
+    title: "IntentSwap",
+   description:
+  "An intent-based token swap interface that lets users trade assets efficiently by defining desired outcomes instead of execution paths.",
+subDescription: [
+  "Built an intent-based DEX enabling users to save minimum 2 to 5% per transaction by automatically routing trades to the most optimal execution paths.",
+  "Eliminated the need for manual price comparison across DEXs, reducing user decision time by 70% through aggregated liquidity sourcing.",
+  "Integrated multiple APIs including 1inch, CoinGecko, Tenderly, Etherscan, and Basescan to ensure reliable pricing, monitoring, and transaction validation.",
+  "Designed a scalable and reliable trade execution system with real-time data fetching and fail-safe validation mechanisms for secure swaps.",
+    ],
+    href: "https://github.com/sakiluddin-1/IntentSwap",
+    logo: "",
+    image: "/assets/projects/intentswap_ss.png",
+    tags: [
+      {
+        id: 1,
+        name: "Solidity",
+        path: "/assets/logos/cplusplus.svg",
+      },
+      {
+        id: 2,
+        name: "Wagmi",
+        path: "/assets/logos/csharp.svg",
+      },
+      {
+        id: 3,
+        name: "Rainbowkit",
+        path: "/assets/logos/git.svg",
+      },
+      {
+        id: 4,
+        name: "TypeScript",
+        path: "/assets/logos/microsoft.svg",
+      },
+      {
+        id: 5,
+        name: "Node.js",
+        path: "/assets/logos/microsoft.svg",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [

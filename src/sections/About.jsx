@@ -15,7 +15,7 @@ const About = () => {
                 <img src="assets/coding-pov.png" className = "absolute scale-[1.75] -right-[5rem] -top-[1rem] md:scale-[3] md:left-50 md:inset-y-10 lg;scale-[2.5]" />
                 <div className = "z-10">
                     <p className = "headtext">Hi, I'm MD Sakil Uddin</p>
-                    <p className = "subtext">Over the last 1 year, I developed my frontend and backend skills to develop dynamic applications</p>
+                    <p className = "subtext">Over the time, I developed my frontend and web3 skills to develop dynamic applications</p>
                 </div>
                 < div className = "absolute inset-x-0 pointer-evets-none-bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-t from-indigo" />
             </div>
@@ -44,7 +44,7 @@ const About = () => {
             <div className = "grid-black-color grid-3">
                 <div className = "z-10 w-[50%]">
                     <p className = "headtext">Tech Enthusiast</p>
-                    <p className = "subtext">I love creating creative 3d Arts and exploring complex working principle and an also an
+                    <p className = "subtext">I love creating learning new technologies and exploring complex web3 principle and an also an
                         <br/> astrophile</p>
                 </div>
                 <figure className = "absolute left-[30%] top-[10%]">
@@ -64,7 +64,7 @@ const About = () => {
             <div className = "grid-default-color grid-5">
                 <div className = "z-10 w-[50%]">
                     <p className = "headtext">Tech Stacks</p>
-                    <p className = "subtext">I don't know what you love but if you ask me then obviously it's gonna be tech</p>
+                    <p className = "subtext">I love developing complex systems and solving bugs</p>
                 </div>
                 <div className = "absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
                     <Frameworks/>

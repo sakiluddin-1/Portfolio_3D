@@ -266,6 +266,17 @@ export const experiences = [
       "Collaborated with experts to ensure academic precision, contributing to a globally recognized publication."
     ],
   },
+  {
+    title: "Blog Writing & Open-Source Contribution",
+    job: "Self-Driven",
+    date: "",
+    contents: [
+      "I actively write technical blogs focused on real-world Web3 development and smart contract concepts.",
+      "I break down complex topics into simple, practical guides to help developers build confidently.",
+      "I contribute to open-source projects, improving codebases and collaborating with developers globally.",
+      "Through writing and contributions, I continuously strengthen both my technical depth and community impact."
+    ],
+  },
 ];
 export const reviews = [
   {

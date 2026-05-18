@@ -64,7 +64,7 @@ const About = () => {
             <div className = "grid-default-color grid-5">
                 <div className = "z-10 w-[50%]">
                     <p className = "headtext">Tech Stacks</p>
-                    <p className = "subtext">I love developing complex web3 systems and solving bugs</p>
+                    <p className = "subtext">I love developing complex systems and solving bugs</p>
                 </div>
                 <div className = "absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
                     <Frameworks/>
